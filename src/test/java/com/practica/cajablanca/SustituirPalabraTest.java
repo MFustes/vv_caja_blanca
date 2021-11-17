@@ -1,5 +1,5 @@
 package com.practica.cajablanca;
 
-public class sustituirPalabraTest {
+public class SustituirPalabraTest {
     //Test de Ines y Dani
 }
