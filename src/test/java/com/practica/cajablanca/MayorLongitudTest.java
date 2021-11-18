@@ -18,7 +18,7 @@ public class MayorLongitudTest {
     public void singleMayorLongitud() throws EmptyCollectionException {  // 1-2-3-4-5-6-7-8-9-6-4-16
         Editor editor= new Editor();
         editor.leerFichero("src/test/java/com/practica/cajablanca/fichero1.txt");
-        assertEquals("patata",editor.mayorLongitud());
+        assertEquals("buenos",editor.mayorLongitud());
     }
 
 
