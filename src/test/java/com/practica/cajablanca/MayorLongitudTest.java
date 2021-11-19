@@ -10,7 +10,6 @@ import static org.junit.Assert.assertEquals;
 
 public class MayorLongitudTest {
 
-    //Hola chicos, os habla el Mario del pasado, suerte con los tests 😉
     @Test
     public void mayorLongitudCamino1Test() throws EmptyCollectionException {  // 1-2-3-16
         Editor editor= new Editor();
